@@ -1,0 +1,12 @@
+{
+    "name": "borekb/github-md-preview",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "Borek Bernard",
+            "email": "borekb@gmail.com"
+        }
+    ]
+}
